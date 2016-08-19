@@ -22,6 +22,16 @@
 >
 > Membuat SIMRS (Sistem Informasi Management Rumah Sakit) Mata di Cicendo, Bandung. Jawa Barat
 
+#### Asisten Dosen Lab.Oracle 10g Database &emsp; <small>*2013 - 2014*</small>
+`UNIKOM Team Oracle`
+> Mengajar matakuliah Oracle Database 10g diantaranya:
+> * SQL Fundamental
+> * PL/SQL
+> * Form Builder
+>
+> Jabatan, Ketua Asdos generasi ke 3
+
+
 ---
 ## Education
 #### SMAN 12 Bandung &emsp; <small>*2009 - 2011*</small>
