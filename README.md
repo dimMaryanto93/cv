@@ -19,7 +19,7 @@
 > * Spring MVC
 > * JSP
 > * Hibernate
-> 
+>
 > Membuat SIMRS (Sistem Informasi Management Rumah Sakit) Mata di Cicendo, Bandung. Jawa Barat
 
 ---
@@ -82,7 +82,7 @@ Windows 10, Linux Fedora dan Linux UBuntu
 vim
 
 ---
-[avatar]: https://media.licdn.com/media/AAEAAQAAAAAAAAmBAAAAJDRkZWIxMDRhLTliYjItNGEyYS1iYWVjLTk1ZTI4NmY0N2FhMg.jpg
+[avatar]: profile.jpg
 [homepage]: http://software.dimmaryanto93.com
 [twitter]: https://twitter.com/dimmaryanto93
 [twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
