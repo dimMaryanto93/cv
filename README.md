@@ -37,7 +37,6 @@
 #### SMAN 12 Bandung &emsp; <small>*2009 - 2011*</small>
 `IPS (Ilmu pengetahuan Sosial)`
 
----
 #### Universitas Komputer Indonesia (UNIKOM) Bandung &emsp; <small>*2011 - Maret 2016*</small>
 `Sistem Informasi (S.Kom - IPK 3.44) `
 > Pada saat kuliah, saya lebih tertarik dengan bahasa pemograman Java meskipun hanya diajarkan fundamentalnya saja dan hanya 3 semester, kebanyakan dikampus diajarkan PHP. selain itu juga saya aktif sebagai Asisten Dosen Lab. Oracle Database yang mengajar tentang SQL Fundamental dan Form Builder selama 1 tahun.
@@ -58,7 +57,7 @@ Dengan cakupan pembahasan diantaranya seperti berikut:
 * Pencatatan biaya oprasional
 * Laporan akutansi sederhana
 
----
+
 #### [Sistem Informasi Penjualan di Zalfa Miracle Skin Care](https://github.com/dimMaryanto93/sipmi-zalfa-miracle-skin-care)
 Project ini adalah membantu teman mengerjakan SKRIPSI, dengan menggunakan teknologi:
 * Java Swing
@@ -69,7 +68,7 @@ Dengan cakupan dan pembahasan mengenai:
 * Penjualan produk
 * Inventory
 
----
+
 #### [Sistem Informasi Kepegawaian pada PT.Spektra Adhya Prasarana](https://github.com/elkahanna/spektra-adhya-prasarana)
 Project ini adalah membantu teman mengerjakan SKRIPS, dengan menggunakan tekologi:
 * JavaFX
