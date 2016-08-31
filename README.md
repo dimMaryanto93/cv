@@ -45,6 +45,14 @@
 
 ## Experience
 
+### PT Usaha karya Bina Mandiri (UKABIMA) &emsp; <small>*September 2016 - Sekarang*</small>
+
+Lokasi: Wijaya Grand Centre Block F No 6, Jl Dharmawangsa III/ Wijaya II, Jakarta 12160.
+
+Sebagai: `Junior Staff IT Developer`
+
+Job Description: -
+
 ### Junior Programmer &emsp; <small>*2015-November - 2015-Desember*</small>
 `PT. Tabel Data Informatika`
 
@@ -68,13 +76,6 @@ Mengajar matakuliah Oracle Database 10g diantaranya:
 
 Jabatan, Ketua Asdos generasi ke 3
 
-### PT Usaha karya Bina Mandiri (UKABIMA) &emsp; <small>*September 2016 - Sekarang*</small>
-
-Lokasi: Wijaya Grand Centre Block F No 6, Jl Dharmawangsa III/ Wijaya II, Jakarta 12160.
-
-Sebagai: `Junior Staff IT Developer`
-
-Job Description: -
 
 ---
 ## Education
