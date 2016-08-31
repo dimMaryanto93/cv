@@ -1,8 +1,14 @@
 
-# ![avatar][] Dimas Maryanto
 
-### Java Programmer
-#####  Bandung, Jawa Barat.Indonesia
+# Dimas maryanto
+
+---
+
+![profile](profile.jpg)
+
+### Junior Staff IT Developer
+
+#### PT Usaha karya Bina Mandiri (UKABIMA) Jakarta Selatan
 
 ---
 
@@ -38,7 +44,8 @@
 ---
 
 ## Experience
-#### Junior Programmer &emsp; <small>*2015-November - 2015-Desember*</small>
+
+### Junior Programmer &emsp; <small>*2015-November - 2015-Desember*</small>
 `PT. Tabel Data Informatika`
 
 Bekerja menggunakan teknologi
@@ -50,7 +57,7 @@ Bekerja menggunakan teknologi
 
 Membuat SIMRS (Sistem Informasi Management Rumah Sakit) Mata di Cicendo, Bandung. Jawa Barat
 
-#### Asisten Dosen Lab.Oracle 10g Database &emsp; <small>*2013 - 2014*</small>
+### Asisten Dosen Lab.Oracle 10g Database &emsp; <small>*2013 - 2014*</small>
 `UNIKOM Team Oracle`
 
 Mengajar matakuliah Oracle Database 10g diantaranya:
@@ -61,6 +68,13 @@ Mengajar matakuliah Oracle Database 10g diantaranya:
 
 Jabatan, Ketua Asdos generasi ke 3
 
+### PT Usaha karya Bina Mandiri (UKABIMA) &emsp; <small>*September 2016 - Sekarang*</small>
+
+Lokasi: Wijaya Grand Centre Block F No 6, Jl Dharmawangsa III/ Wijaya II, Jakarta 12160.
+
+Sebagai: `Junior Staff IT Developer`
+
+Job Description: -
 
 ---
 ## Education
