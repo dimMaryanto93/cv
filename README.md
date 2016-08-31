@@ -1,10 +1,6 @@
-
+![profile](profile.jpg)
 
 # Dimas maryanto
-
----
-
-![profile](profile.jpg)
 
 ### Junior Staff IT Developer
 
@@ -40,6 +36,8 @@
 * Oracle Database 11g
 * MySQL
 * PostgreSQL
+* UBuntu
+* Fedora
 
 ---
 
