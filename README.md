@@ -93,6 +93,13 @@ Contribution:
 - Coding
 - Deployment
 
+Technology: 
+- IIS (Internet Information Service) Windows Server 2008
+- Springboot v2.1.5
+- Hibernate
+- JDBC
+- Angular8
+
 #### SISAPPRA
 
 Project ini, relate dengan pekerjaan saya di PT. Tabeldata Informatika sebagai Principal Software Engineer untuk membuat Backend and Web Frontend di SATPOL PP PEMPROF DKI JAKARTA
@@ -102,12 +109,26 @@ Contribution:
 - Coding
 - Deployment
 
+Technology:
+- nginx web server
+- PostgreSQL 9.6
+- Springboot v2.1.7
+- Angular7
+
 #### Jaring-Ummat
 
 Project ini, relate dengan pekerjaan say adi PT. Tabeldata Informatika sebagai Principal Software Engineer untuk membuat Backend side.
 Contribution:
 - Create request to Virtual Account BNI Syariah
 - Search engine
+
+Technology:
+- nginx web server
+- PostgreSQL 9.6
+- Springboot v2.1.7
+- MongoDB
+- Elasticsearch
+- Logstash
 
 #### DIS-Dukcapil
 
@@ -118,6 +139,11 @@ Contribution:
 - Coding
 - Deployment
 
+Technology:
+- HTTPD
+- PostgreSQL 10
+- Springboot v1.x.x
+
 #### ITIME (Integration Testing Management)
 
 Project ini, releate dengan pekerjaan saya di PT. Tabeldata Informatika sebagai Research and Development yang bekerja sama dengan PT. Multipolar Technology untuk membuat aplikasi internal PT. Bank Mandiri tbk terkait Projects Registration, Management Resource and Script custody. 
@@ -127,6 +153,11 @@ Contribution:
 - Coding
 - Deployment
 
+Technology:
+- HTTPD
+- MySQL 5.7
+- Springboot v1.x.x
+
 #### Teller SUMUT
 
 Project ini, relate dengan pekerjaan saya di PT. Multipolar Technology sebagai out-source software engineer untuk membuat Aplikasi Teller di PT. Bank SUMUT.
@@ -135,12 +166,22 @@ Contribution:
 - Backend side
 - Reporting
 
+Technology:
+- MySQL 5.7 / Oracle 10g
+- Springboot v1.x.x
+- JasperReport
+
 #### eBPR (electoric BPR)
 
 Project ini, relate dengan pekerjaan saya di PT. Usaha Bina Karya Mandiri (UKABIMA) sebagai software engineer untuk membuat aplikasi BPR (Bank Pengkreditan Rakyat). Aplikasi yang saya buat meliputi:
 - Core banking module deposito, tabungan.
 - Web Application
+- Reporting
 
+Technology:
+- PostgreSQL
+- Springboot v1.x.x
+- JasperReport
 
 #### [Sistem Informasi Pemasukan dan Pengeluaran Kas pada UKM Es Dallas](https://github.com/dimMaryanto93/dalas18-cash-management)
 
