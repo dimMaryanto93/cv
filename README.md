@@ -80,8 +80,6 @@ Jod Description:
 
 `Sistem Informasi (S.Kom - IPK 3.44)`
 
-> Pada saat kuliah, saya lebih tertarik dengan bahasa pemograman Java meskipun hanya diajarkan fundamentalnya saja dan hanya 3 semester, kebanyakan dikampus diajarkan PHP. selain itu juga saya aktif sebagai Asisten Dosen Lab. Oracle Database yang mengajar tentang SQL Fundamental dan Form Builder selama 1 tahun.
-
 ---
 
 ## Projects
