@@ -1,10 +1,8 @@
-![profile](profile.jpg)
-
 # Dimas maryanto
 
-### Junior Staff IT Developer
+### Principal Software Engineer | Software Engineer Traininer | Research And Development
 
-#### PT Usaha karya Bina Mandiri (UKABIMA) Jakarta Selatan
+#### PT Tabeldata Informatika
 
 ---
 
@@ -15,35 +13,43 @@
 ## Contact Details
 
 * <small>Nama Lengkap:</small> Dimas Maryanto
-
 * <small>Alamat:</small> <address>Jl.bukit indah no B8 Kab.Bandung Kec.Cileunyi RT.06 RW.18</address>
-
 * <small>Tlp:</small> 082-1173-551-33
 
-* <small>Facebook:</small> <a href="https://www.facebook.com/dimMaryanto93" target="_blank">facebook.com/dimmaryanto93</a>
 
-* <small>Twitter:</small> <a href="https://twitter.com/dimMaryanto93" target="_blank">twitter.com/dimmaryanto93</a>
+## Sosial Media
 
-* <small>Instagram:</small> <a href="https://www.instagram.com/dimmaryanto93/" target="_blank">instagram.com/dimmaryanto93</a>
-
-* <small>LinkedIn:</small> <a href="https://www.linkedin.com/in/dimmaryanto93" target="_blank">linkedin.com/in/dimmaryanto93</a>
+* <small>Private Repository:</small> <a href="http://repository.dimas-maryanto.com/dimasm93" target="_blank">repository.dimas-maryanto.com/dimasm93</a>
+* <small>Github:</small> <a href="https://github.com/dimmaryanto93" target="_blank">github.com/dimMaryanto93</a>
+* <small>Gitlab:</small> <a href="https://gitlab.com/dimmaryanto93" target="_blank">gitlab.com/dimMaryanto93</a>
+* <small>Bitbucket:</small> <a href="https://bitbucket.org/dimMaryanto93/" target="_blank">bitbucket.org/dimMaryanto93</a>
 
 ---
 
 ## Skill
 
 * Java
-* Oracle Database 11g
-* MySQL
-* PostgreSQL
-* UBuntu
-* Fedora
+* Spring Framework
+* Angular Framework
+* Database Mysql, Oracle, PostgreSQL, and SQL Server
+* DevOps Docker, Kubernetes, and Linux Server
 
 ---
 
 ## Experience
 
-### PT Usaha karya Bina Mandiri (UKABIMA) &emsp; <small>*September 2016 - Sekarang*</small>
+### PT Tabeldata Informatika &emsp; <small>*Agustus 2017 - Sekarang*</small>
+
+Lokasi: Jl. Cicalengka raya no 11 kota Bandung
+
+Sebagai: `Principal Software Engineer | Research and Development | Software Engineer Trainer`
+
+Job Description: 
+- Assess IT needs and constraints of client
+- Deliver recommendation and solution
+- Provide programming language
+
+### PT Usaha karya Bina Mandiri (UKABIMA) &emsp; <small>*September 2016 - July 2017*</small>
 
 Lokasi: Wijaya Grand Centre Block F No 6, Jl Dharmawangsa III/ Wijaya II, Jakarta 12160.
 
@@ -66,14 +72,12 @@ Membuat SIMRS (Sistem Informasi Management Rumah Sakit) Mata di Cicendo, Bandung
 ### Asisten Dosen Lab.Oracle 10g Database &emsp; <small>*2013 - 2014*</small>
 `UNIKOM Team Oracle`
 
-Mengajar matakuliah Oracle Database 10g diantaranya:
-
-* SQL Fundamental
-* PL/SQL
-* Form Builder
-
-Jabatan, Ketua Asdos generasi ke 3
-
+Jod Description:
+- Ketua Asdos
+- Mengajar Matakuliah Oracle 10g
+  - SQL Fundamental
+  - PL/SQL
+  - Form Builder
 
 ---
 ## Education
@@ -135,19 +139,6 @@ Dengan cakupan dan pembahasan mengenai:
 * Sistem penggajian
 * Sistem Kepegaiawan ( Pencatatan absensi, pencatatan biaya uang makan dll)
 * Sistem Kasbon Karyawan
-
----
-
-## Favorites
-
-#### Editor
-Netbeans, Eclipse, IDEA dan Atom
-
-#### Operating System
-Windows 10, Linux Fedora dan Linux UBuntu
-
-#### Terminal
-vim
 
 ---
 [avatar]: profile.jpg
