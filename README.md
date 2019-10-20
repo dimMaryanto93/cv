@@ -4,7 +4,8 @@
 
 * <small>Nama Lengkap:</small> Dimas Maryanto
 * <small>Alamat:</small> <address>Jl.bukit indah no B8 Kab.Bandung Kec.Cileunyi RT.06 RW.18</address>
-* <small>Tlp:</small> 082-1173-551-33
+* <small>Tlp:</small> `082-1173-551-33`
+* <small>Email:</small> <dimas.maryanto@tabeldata.com>
 
 
 ## Sosial Media
@@ -82,7 +83,58 @@ Jod Description:
 > Pada saat kuliah, saya lebih tertarik dengan bahasa pemograman Java meskipun hanya diajarkan fundamentalnya saja dan hanya 3 semester, kebanyakan dikampus diajarkan PHP. selain itu juga saya aktif sebagai Asisten Dosen Lab. Oracle Database yang mengajar tentang SQL Fundamental dan Form Builder selama 1 tahun.
 
 ---
-## Open Source
+
+## Projects
+
+#### Jaring-Ummat
+
+Project ini, relate dengan pekerjaan say adi PT. Tabeldata Informatika sebagai Principal Software Engineer untuk membuat Backend side.
+Contribution:
+- Create request to Virtual Account BNI Syariah
+- Search engine
+
+#### HCare
+
+Project ini, relate dengan pekerjaan say adi PT. Tabeldata Informatika sebagai Principal Software Engineer untuk membuat Backend and Web Frontend di PT. Astra TOYOTA.
+
+Contribution:
+- Training
+- Coding
+- Deployment
+
+#### DIS-Dukcapil
+
+Project ini, relate dengan pekerjaan saya di PT. Tabeldata Informatika sebagai Research and Development yang bekerja sama dengan PT. Multipolar Technology untuk membuat aplikasi internal PT. Bank Mandiri tbk terkait scheduler engine request to dukcapil.
+
+Contribution:
+- Training
+- Coding
+- Deployment
+
+#### ITIME (Integration Testing Management)
+
+Project ini, releate dengan pekerjaan saya di PT. Tabeldata Informatika sebagai Research and Development yang bekerja sama dengan PT. Multipolar Technology untuk membuat aplikasi internal PT. Bank Mandiri tbk terkait Projects Registration, Management Resource and Script custody. 
+
+Contribution:
+- Training
+- Coding
+- Deployment
+
+#### Teller SUMUT
+
+Project ini, relate dengan pekerjaan saya di PT. Multipolar Technology sebagai out-source software engineer untuk membuat Aplikasi Teller di PT. Bank SUMUT.
+
+Contribution:
+- Backend side
+- Reporting
+
+#### eBPR (electoric BPR)
+
+Project ini, relate dengan pekerjaan saya di PT. Usaha Bina Karya Mandiri (UKABIMA) sebagai software engineer untuk membuat aplikasi BPR (Bank Pengkreditan Rakyat). Aplikasi yang saya buat meliputi:
+- Core banking module deposito, tabungan.
+- Web Application
+
+
 #### [Sistem Informasi Pemasukan dan Pengeluaran Kas pada UKM Es Dallas](https://github.com/dimMaryanto93/dalas18-cash-management)
 
 Project ini adalah SKRIPSI saya, yang saya buat menggunakan teknologi Java dengan framework:
@@ -103,7 +155,7 @@ Dengan cakupan pembahasan diantaranya seperti berikut:
 
 #### [Sistem Informasi Penjualan di Zalfa Miracle Skin Care](https://github.com/dimMaryanto93/sipmi-zalfa-miracle-skin-care)
 
-Project ini adalah membantu teman mengerjakan SKRIPSI, dengan menggunakan teknologi:
+Project ini basicly cuman iseng-iseng sekedar mengimplementasikan apa yang saya pelajari di kuliah / prakarya, dengan menggunakan teknologi:
 
 * Java Swing
 * JDBC
@@ -117,7 +169,7 @@ Dengan cakupan dan pembahasan mengenai:
 
 #### [Sistem Informasi Kepegawaian pada PT.Spektra Adhya Prasarana](https://github.com/elkahanna/spektra-adhya-prasarana)
 
-Project ini adalah membantu teman mengerjakan SKRIPS, dengan menggunakan tekologi:
+Project basicly cuman iseng-iseng sekedar mengimplementasikan apa yang saya pelajari di kuliah / prakarya, dengan menggunakan tekologi:
 
 * JavaFX
 * Spring Boot
