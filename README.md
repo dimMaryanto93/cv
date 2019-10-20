@@ -1,15 +1,5 @@
 # Dimas maryanto
 
-### Principal Software Engineer | Software Engineer Traininer | Research And Development
-
-#### PT Tabeldata Informatika
-
----
-
-> " Never stop learn, code, contribute
-
----
-
 ## Contact Details
 
 * <small>Nama Lengkap:</small> Dimas Maryanto
