@@ -84,21 +84,30 @@ Jod Description:
 
 ## Projects
 
+#### HCare
+
+Project ini, relate dengan pekerjaan saya di PT. Tabeldata Informatika sebagai Principal Software Engineer untuk membuat Backend and Web Frontend di PT. Astra TOYOTA.
+
+Contribution:
+- Training
+- Coding
+- Deployment
+
+#### SISAPPRA
+
+Project ini, relate dengan pekerjaan saya di PT. Tabeldata Informatika sebagai Principal Software Engineer untuk membuat Backend and Web Frontend di SATPOL PP PEMPROF DKI JAKARTA
+
+Contribution:
+- Training
+- Coding
+- Deployment
+
 #### Jaring-Ummat
 
 Project ini, relate dengan pekerjaan say adi PT. Tabeldata Informatika sebagai Principal Software Engineer untuk membuat Backend side.
 Contribution:
 - Create request to Virtual Account BNI Syariah
 - Search engine
-
-#### HCare
-
-Project ini, relate dengan pekerjaan say adi PT. Tabeldata Informatika sebagai Principal Software Engineer untuk membuat Backend and Web Frontend di PT. Astra TOYOTA.
-
-Contribution:
-- Training
-- Coding
-- Deployment
 
 #### DIS-Dukcapil
 
