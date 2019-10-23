@@ -61,7 +61,7 @@ Bekerja menggunakan teknologi
 
 Project SIMRS (Sistem Informasi Management Rumah Sakit) Mata di Cicendo, Bandung. Jawa Barat
 
-### UNIKOM &emsp; <small>*2013 - 2014*</small>
+### Universitas Komputer Indonesia (UNIKOM) &emsp; <small>*2013 - 2014*</small>
 
 Sebagai: `Asisten Dosen Lab.Oracle 10g Database`
 
