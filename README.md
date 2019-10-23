@@ -48,8 +48,9 @@ Sebagai: `Junior Staff IT Developer`
 
 Job Description: -
 
-### Junior Programmer &emsp; <small>*2015-November - 2015-Desember*</small>
-`PT. Tabel Data Informatika`
+### PT. Tabeldata Informatika &emsp; <small>*2015-November - 2015-Desember*</small>
+
+Sebagai: `Junior Programmer`
 
 Bekerja menggunakan teknologi
 
@@ -58,10 +59,11 @@ Bekerja menggunakan teknologi
 * JSP
 * Hibernate
 
-Membuat SIMRS (Sistem Informasi Management Rumah Sakit) Mata di Cicendo, Bandung. Jawa Barat
+Project SIMRS (Sistem Informasi Management Rumah Sakit) Mata di Cicendo, Bandung. Jawa Barat
 
-### Asisten Dosen Lab.Oracle 10g Database &emsp; <small>*2013 - 2014*</small>
-`UNIKOM Team Oracle`
+### UNIKOM &emsp; <small>*2013 - 2014*</small>
+
+Sebagai: `Asisten Dosen Lab.Oracle 10g Database`
 
 Jod Description:
 - Ketua Asdos
