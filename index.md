@@ -1,4 +1,7 @@
-# Dimas maryanto
+---
+layout: cv
+title: Dimas Maryanto
+---
 
 ## Contact Details
 
@@ -17,8 +20,6 @@
 * <small>Instagram:</small> <a href="https://www.instagram.com/dimmaryanto93/" target="_blank">@dimMaryanto93</a>
 * <small>Youtube Channel:</small> <a href="https://www.youtube.com/channel/UCNTS3BwsqzKwaOA0mOPLCgw" target="_blank">c/DimasMaryanto</a>
 
----
-
 ## Skill
 
 * Java
@@ -26,8 +27,6 @@
 * Angular Framework
 * Database: Mysql, Oracle, PostgreSQL, and SQL Server
 * DevOps: Docker, Kubernetes, Ansible, and Linux Server
-
----
 
 ## Experience
 
@@ -102,7 +101,6 @@ Jod Description:
   - PL/SQL
   - Form Builder
 
----
 ## Education
 
 ### SMAN 12 Bandung &emsp; <small>*2009 - 2011*</small>
@@ -112,8 +110,6 @@ Jod Description:
 <small>*2011 - Maret 2016*</small>
 
 Jurusan: Sistem Informasi (S.Kom - IPK `3.44`)
-
----
 
 ## Projects
 
